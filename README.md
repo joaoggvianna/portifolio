@@ -12,8 +12,8 @@ Meu objetivo é evoluir como desenvolvedor, contribuindo com projetos que gerem 
 ---
 
 ## 📞 Informações de Contato
-- LinkedIn:(www.linkedin.com/in/joão-gabriel-guedes-vianna-5a9a35325)  
-- GitHub: (https://github.com/joaoggvianna)  
+- [LinkedIn]:(www.linkedin.com/in/joão-gabriel-guedes-vianna-5a9a35325)  
+- [GitHub]: (https://github.com/joaoggvianna)  
 - E-mail: jggv2005@gmail.com 
 
 ---
