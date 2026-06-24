@@ -1,4 +1,4 @@
-# Olá, eu sou o João Gabriel! 👋
+# Olá, eu sou o João! 👋
 
 Estudante de **Ciência da Computação na PUC-SP**, entusiasta de tecnologia e programação. Meu objetivo é evoluir como desenvolvedor, contribuindo com projetos que gerem impacto positivo e me permitam aprender continuamente.
 
@@ -14,6 +14,7 @@ Estudante de **Ciência da Computação na PUC-SP**, entusiasta de tecnologia e 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
