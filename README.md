@@ -1,4 +1,4 @@
-# Olá, eu sou o João! 👋
+# Olá, eu sou o João!
 
 Estudante de **Ciência da Computação na PUC-SP**, entusiasta de tecnologia e programação. Meu objetivo é evoluir como desenvolvedor, contribuindo com projetos que gerem impacto positivo e me permitam aprender continuamente.
 
