@@ -1,4 +1,4 @@
-# Olá, eu sou o João Gabriel Vianna 👋
+# Olá, eu sou o João Gabriel Vianna
 
 Estudante de **Ciência da Computação na PUC-SP**, com foco em **engenharia de software, backend, automação e orquestração de IA**.
 
@@ -8,9 +8,9 @@ Atualmente, venho aprofundando conhecimentos em **Python, Java, C, bancos de dad
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### 🌊 [NETuno](https://github.com/joaoggvianna/NETuno)
+### [NETuno](https://github.com/joaoggvianna/NETuno)
 Assistente pessoal digital desenvolvido de forma incremental para combinar **assistência, automação e orquestração de dispositivos e serviços**.
 
 A arquitetura atual possui um Core determinístico separado em parser, intents, router e handlers, persistência local com SQLite, integração com Spotify, testes automatizados e uma API HTTP com FastAPI.
@@ -19,44 +19,40 @@ A arquitetura atual possui um Core determinístico separado em parser, intents, 
 
 **Tecnologias:** Python · FastAPI · SQLite · Uvicorn · psutil
 
-**Status:** 🚧 Em desenvolvimento
+**Status:** Em desenvolvimento
 
 ---
 
-### 🚀 [Suba — Daily Assistant](https://github.com/joaoggvianna/Suba-daily-assistant)
-Assistente de produtividade via Telegram criado para acompanhar metas ao longo do dia e realizar revisões periódicas.
+### [Suba — Daily Assistant](https://github.com/joaoggvianna/Suba-daily-assistant)
+Experimento de assistente de produtividade via Telegram, criado para explorar automação de rotinas, memória persistente e uso de IA em workflows.
 
-O projeto explora **orquestração de workflows com IA**, automações agendadas, memória persistente e extração estruturada de dados a partir de linguagem natural.
-
-**Destaques:** n8n self-hosted, Docker, Telegram Bot, Gemini, PostgreSQL, memória de conversa e pipelines de automação.
+O projeto serviu como laboratório prático para n8n, Docker, PostgreSQL, Telegram Bot e Gemini, principalmente na parte de orquestração e integração entre serviços.
 
 **Tecnologias:** n8n · Docker · PostgreSQL · Telegram Bot · Gemini API
 
-**Status:** 🚧 Em desenvolvimento
+**Status:** Pausado por tempo indeterminado
 
 ---
 
-### 🤝 [Voluntiva](https://github.com/joaoggvianna/Software-project)
-Sistema acadêmico de gestão de voluntários para ONGs, integrando conceitos de **engenharia de software, redes de computadores e banco de dados**.
+### [Voluntiva](https://github.com/joaoggvianna/Software-project)
+Projeto acadêmico de um sistema de gestão de voluntários para ONGs, pensado para integrar conceitos de **engenharia de software, redes de computadores e banco de dados**.
 
-A proposta utiliza arquitetura cliente-servidor, banco de dados relacional e um protocolo de aplicação próprio sobre TCP para operações como autenticação, consulta de eventos, inscrições e notificações.
+No momento, o projeto está em fase de mapeamento: levantamento de requisitos, definição da arquitetura, modelagem inicial do banco de dados e especificação de um protocolo de aplicação sobre TCP.
 
-**Destaques:** levantamento de requisitos, arquitetura cliente-servidor, modelagem de dados e projeto de protocolo de rede.
-
-**Status:** 🚧 Em desenvolvimento
+**Status:** Mapeamento e planejamento
 
 ---
 
-### 🎮 [Pedra-Papel-Tesoura JvM](https://github.com/joaoggvianna/pedra-papel-tesoura)
+### [Pedra-Papel-Tesoura JvM](https://github.com/joaoggvianna/pedra-papel-tesoura)
 Um dos meus primeiros projetos publicados no GitHub: implementação em Python do clássico Pedra-Papel-Tesoura em modo jogador contra máquina.
 
 **Tecnologias:** Python
 
-**Status:** ✅ Finalizado
+**Status:** Finalizado
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,7 +73,7 @@ Um dos meus primeiros projetos publicados no GitHub: implementação em Python d
 
 ---
 
-## 🧠 Áreas que estou desenvolvendo
+## Áreas que estou desenvolvendo
 
 - Engenharia de software e arquitetura de aplicações
 - Desenvolvimento backend e APIs
@@ -89,7 +85,7 @@ Um dos meus primeiros projetos publicados no GitHub: implementação em Python d
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -101,7 +97,7 @@ Um dos meus primeiros projetos publicados no GitHub: implementação em Python d
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jggvianna)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoggvianna)
