@@ -85,18 +85,6 @@ Um dos meus primeiros projetos publicados no GitHub: implementação em Python d
 
 ---
 
-## GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoggvianna&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoggvianna&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jggvianna)
