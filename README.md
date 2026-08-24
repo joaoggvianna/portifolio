@@ -11,13 +11,15 @@ Atualmente, venho aprofundando conhecimentos em **Python, Java, C, bancos de dad
 ## Projetos em destaque
 
 ### [NETuno](https://github.com/joaoggvianna/NETuno)
-Assistente pessoal digital desenvolvido de forma incremental para combinar **assistência, automação e orquestração de dispositivos e serviços**.
+Central de controle local para desktop, desenvolvida para tornar a interação com o computador mais natural por meio de **comandos de voz, automações e ações determinísticas sobre sistema e aplicativos**.
 
-A arquitetura atual possui um Core determinístico separado em parser, intents, router e handlers, persistência local com SQLite, integração com Spotify, testes automatizados e uma API HTTP com FastAPI.
+A arquitetura atual separa o Core de interpretação e roteamento do Desktop Agent responsável pelos efeitos no computador. O projeto já possui parser de comandos, intents, router e handlers, persistência local com SQLite, integração com Spotify, API HTTP em FastAPI, interface web em React e uma fronteira estruturada entre Core e Agent. A próxima evolução concentra-se em voz como interface principal e em transformar o frontend em um painel de estado e atividade do computador.
 
-**Destaques:** arquitetura modular, Command Parser, roteamento de intenções, FastAPI, SQLite, integração com aplicações, testes e evolução versionada do produto.
+A proposta não depende de uma LLM para ações comuns: abrir aplicativos, pesquisar na web, controlar mídia, consultar o sistema e executar rotinas devem permanecer previsíveis e determinísticos. IA pode entrar futuramente apenas como capacidade opcional para tarefas abertas em que realmente agregue valor.
 
-**Tecnologias:** Python · FastAPI · SQLite · Uvicorn · psutil
+**Destaques:** arquitetura modular, Command Parser, roteamento por intents, Desktop Agent local, FastAPI, SQLite, integração com aplicações, segurança por allowlists, testes automatizados e evolução versionada do produto.
+
+**Tecnologias:** Python · FastAPI · React · SQLite · Uvicorn · psutil
 
 **Status:** Em desenvolvimento
 
@@ -68,7 +70,7 @@ Um dos meus primeiros projetos publicados no GitHub: implementação em Python d
 ### Automação e infraestrutura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
